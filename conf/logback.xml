@@ -81,5 +81,6 @@
 	<root level="DEBUG">
 		<!-- <appender-ref ref="STDOUT"/>  -->
 		<appender-ref ref="CANAL-ROOT" />
+		<appender-ref ref="CANAL-META" />
 	</root>
 </configuration>
